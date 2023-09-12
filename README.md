@@ -1,13 +1,43 @@
-*Hello!*
+# Apresentação - João Vitor Amato Caldas Tavares
 
-My name is João Vitor Amato, I am passionate about technology and always looking to learn and grow professionally.
+Olá, sou **João Vitor Amato Caldas Tavares**, um desenvolvedor web brasileiro apaixonado por criar experiências digitais excepcionais. Ao longo da minha carreira, adquiri uma sólida base de habilidades tanto no Front-End quanto no Back-End, e estou constantemente em busca de desafios empolgantes para aplicar meu conhecimento.
 
-I am a programmer and graphic designer with skills in Front-End development. I love working in a team and collaborating on interdisciplinary projects, where I can apply my knowledge and skills to achieve amazing results.
+## Habilidades
 
-When I am not coding or designing, I enjoy to practice any sport or play Valorant. I believe it is important to have balance between work and leisure to maintain motivation and enthusiasm.
+### Front-End
+- **Adobe Photoshop**
+- **Figma**
+- **HTML / CSS**
 
-I am excited to share my projects and collaborate with the community on GitHub. If you are interested in working together or just want to say hello, do not hesitate to contact me.
+### Back-End
+- **C**
+- **C++**
+- **JavaScript**
+- **GitHub**
+- **Vue.js**
 
-Thank you for visiting my profile!
+## Experiência Profissional
 
-Amato
+### Desenvolvedor Front-End - Avançar SE
+- **Período:** 08/2022 – 11/2022
+- **Local:** Raul Soares, Brasil
+- Na Avançar SE, atuei como desenvolvedor web júnior, desempenhando um papel crucial no projeto.
+- Minha atuação incluiu criação e design do site com HTML e CSS, implementação de funcionalidades com JavaScript e gerenciamento eficiente de bancos de dados com SQL.
+- Minha stack de habilidades inclui HTML, CSS Modules, JavaScript e SQL, permitindo um trabalho abrangente no desenvolvimento web.
+- **Realizações:**
+  - Desenvolvimento de páginas web altamente responsivas, proporcionando uma experiência de usuário impecável.
+  - Implementação de código eficiente, reduzindo o tempo de carregamento das páginas em 30%.
+  - Colaboração proativa com equipes multifuncionais, resultando em um aumento de 20% na satisfação dos usuários.
+
+### Desenvolvedor Web - Colégio Darwin
+- **Período:** 11/2021 – 02/2022
+- **Local:** Raul Soares, Brasil
+- Concentrei-me em melhorar a interface do site, aplicando expertise em UI/UX e otimização para mecanismos de busca.
+- Trabalhei em equipe com outros desenvolvedores, aplicando metodologia ágil para maior eficiência na entrega de projetos.
+- Adquiri proficiência em Figma, possibilitando a criação de layouts e protótipos mais sofisticados.
+  
+### Designer Gráfico - M&P Engenharias
+- **Período:** 01/2023 – 07/2023
+- **Local:** Rio Casca, Brasil
+
+Estou ansioso para continuar crescendo profissionalmente e enfrentar novos desafios. Se você procura alguém com um conjunto diversificado de habilidades em desenvolvimento web e design, estou pronto para colaborar e contribuir para o sucesso do seu próximo projeto.
